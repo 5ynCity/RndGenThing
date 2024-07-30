@@ -19,4 +19,4 @@ B
 
 
 $genericsTest
-[type[type]]
+[type[type, written]]
