@@ -1,0 +1,41 @@
+$name : NPC Generator
+$author : 5ynCity
+$description : Generates a detailed NPC with background
+
+
+$nameHumanM
+Alan
+John
+Jack
+Paul
+Kyle
+Nick
+Ron
+Lucas
+Gerald
+Dave
+Robin
+Phil
+Harold
+Adam
+Adan
+Dan
+Doug
+Michael
+Mike
+Goddard
+Adam
+
+$nameHumanL
+Doe
+Adams
+Pike
+Lewis
+Bates
+Graves
+Robins
+Payne
+
+
+$npc
+Name: [nameHumanM] [nameHumanL]
