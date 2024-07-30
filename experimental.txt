@@ -19,5 +19,4 @@ B
 
 
 $genericsTest
-Type: [typeGeneric, #selType]
-Subtype: [type[#selType, written]]
+Type: [typeGeneric, #selType] Subtype: [type[#selType, written]]
