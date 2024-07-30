@@ -13,10 +13,11 @@ b1
 b2
 b3
 
-$type
+$typeGeneric
 A
 B
 
 
 $genericsTest
-[type[type, written]]
+Type: [typeGeneric, #selType]
+Subtype: [type[#selType, written]]
