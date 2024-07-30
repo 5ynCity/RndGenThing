@@ -1,0 +1,22 @@
+$name : Experimental
+$author : 5ynCity
+$description : Used to experiment with setups
+
+
+$typeA
+a1
+a2
+a3
+
+$typeB
+b1
+b2
+b3
+
+$type
+A
+B
+
+
+$genericsTest
+[type[type]]
